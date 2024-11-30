@@ -1,1 +1,1 @@
-pypiserver/pypiserver:latest
+searxng/searxng
