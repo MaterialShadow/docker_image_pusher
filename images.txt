@@ -1,1 +1,1 @@
-node:18-alpine
+corentinth/it-tools:latest
