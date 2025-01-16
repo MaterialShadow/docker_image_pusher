@@ -1,2 +1,2 @@
-wallabag/wallabag
+getmeili/meilisearch:v1.12
 
